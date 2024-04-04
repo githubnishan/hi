@@ -48,7 +48,7 @@
   ],
   "adminBot": [
     "100090443419982",
-    "",
+    "100091893014482",
     "",
     "",
     ""
@@ -59,8 +59,8 @@
   ],
   "DEV": [
     "100090443419982",
-    "100095251515413",
-    "100073291639820"
+    "100091893014482",
+    ""
   ],
   "whiteListMode": {
     "enable": false,
@@ -74,7 +74,7 @@
     "how_it_work": "if you enable both whiteListMode and whiteListModeThread, the system will check if the user is in whiteListIds, then check if the thread is in whiteListThreadIds, if one of the conditions is true, the user can use the bot"
   },
   "nickNameBot": "broken 💔 MD",
-  "prefix": ".",
+  "prefix": "+",
   "database": {
     "type": "json",
     "uriMongodb": "",
